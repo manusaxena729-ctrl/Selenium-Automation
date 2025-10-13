@@ -9,6 +9,6 @@
 - Provide all information on this page
 - Report/screenshot for every steps
   - screenshot folder
-    - all the screen found here: https://github.com/radwanSQA/PrintsWorksBd.com--Automation/tree/master/screenshots
+    - all the screen found here: https://github.com/manusaxena729-ctrl/Selenium-Automation/tree/main/screenshots
   - Reports
-    - All reports are found here: https://github.com/radwanSQA/PrintsWorksBd.com--Automation/tree/master/reports
+    - All reports are found here: https://github.com/manusaxena729-ctrl/Selenium-Automation/tree/main/Reports

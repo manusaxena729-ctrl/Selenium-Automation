@@ -2,7 +2,7 @@
 - Automation Step:
 
 - Visit Url: Printworks BD
-- Hover বাংলা and Select উপন্যাস
+- Hover  and Select 
 - View any book 
 - Add to Cart
 - Hover Cart Icon and Click Checkout
